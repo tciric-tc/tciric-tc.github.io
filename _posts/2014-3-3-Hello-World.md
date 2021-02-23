@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm a data scientist and let's blogging!
+title: Let's blogging!
 published: true
 ---
 
