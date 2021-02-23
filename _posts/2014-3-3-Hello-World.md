@@ -11,6 +11,3 @@ Fellas, I hope you will enjoy reading my silly blogs and learn something new. Ev
 And remember one so important thing > The truth is in data.
 
 ## Enjoy!
-
-
-
